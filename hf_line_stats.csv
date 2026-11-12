@@ -1,0 +1,10 @@
+file,segment,median_hz,std_hz,std_cents,comment
+cassette 96k,Cadillac 20:16-24:34,15799.8,23.7,2.59,clean tape line
+calibrated 48k,Cadillac corrected,14973.6,23.6,2.74,same line after x1.055; expected 14976.1
+old digitization 48k,Cadillac old transfer,15748.5,182.4,20.23,"unreliable, denoise/codec"
+new WAV 96k,full side B,15796.9,86.6,9.53,includes transport drift and tail
+new WAV 96k,prefix 0-13:33,15791.0,47.9,5.25,
+new WAV 96k,fast island 13:33-24:35,15805.7,48.1,5.27,
+new WAV 96k,transition 24:35-27:44,15764.6,41.8,4.58,
+new WAV 96k,suffix 27:44-40:40,15805.7,65.8,7.19,
+new WAV 96k,tail 40:40-end,15568.4,199.3,21.97,"end-of-tape, unreliable"
