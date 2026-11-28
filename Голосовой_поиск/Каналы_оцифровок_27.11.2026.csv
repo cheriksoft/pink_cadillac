@@ -1,21 +1,21 @@
-priority,tier,channel,channel_id,url,focus,examples,status
-1,A,Песни моей молодости,UCkTlQdsrVAuO-ZMlBwpjRwQ,https://www.youtube.com/channel/UCkTlQdsrVAuO-ZMlBwpjRwQ,"full magnetoalbums 1991-1994, female pop","Алина - Наташка 1994; Лена Гладышева - Ты гад 1991; Татьяна Маркова 1992",not_scanned
-2,A,Стихия музыки,UCHS0SHRavRoVXNzAzdmuUbA,https://www.youtube.com/channel/UCHS0SHRavRoVXNzAzdmuUbA,"large 80s-90s archive, full albums, female groups","Бамбино 1990; Модель и Марина Цхай 1987; Чёрная кошка 1991",not_scanned
-3,A,MUSIC ARCHIVE,UCzJHUsB9bkcaOmAgIRHN74Q,https://www.youtube.com/channel/UCzJHUsB9bkcaOmAgIRHN74Q,"short synth-pop tracks, female vocal","Душечка 1991; Radmila Mozhlaeva; Altai/Tatar pop",not_scanned
-4,A,Алексей Ищенко,UC8h5aTYaFb5zNnW2B9-8jSw,https://www.youtube.com/channel/UC8h5aTYaFb5zNnW2B9-8jSw,"short rare tracks 1989-1995, reel digitizations","Стеклянные крылья 1990; Горелова 1991; Шанс 1993",not_scanned
-5,B,ДОЛГовец,UCBWlrPY-wqoA9xAxzHRfB5A,https://www.youtube.com/channel/UCBWlrPY-wqoA9xAxzHRfB5A,"cassette and reel digitizations, mixed full albums","Евгений Гетманский 1992; Виктор Оншин 1992",not_scanned
-6,B,Audio БАГаж,UCBjeM6vpgB7IDR-WFN4lpoA,https://www.youtube.com/channel/UCBjeM6vpgB7IDR-WFN4lpoA,"full obscure magnetoalbums","Удар (Брест) 1989; Телешанс 1994; Тутти 1990",not_scanned
-7,B,Профессор фон Кляйсер,UCVoyZ3xQgmk9SPzY4v0tZ2Q,https://www.youtube.com/channel/UCVoyZ3xQgmk9SPzY4v0tZ2Q,"Soviet disco/pop album tracks","Таня Воробьева - После десяти 1989",not_scanned
-8,B,МагнитИздат,UCHkj78PTOXyIeGvQp1qzrsA,https://www.youtube.com/channel/UCHkj78PTOXyIeGvQp1qzrsA,"red disco, female synth-pop, full albums","Формула 1 1991; М. Кубарская 1991",partially_scanned
-9,B,Черный Ярл,UCjm4DS-sqs6xNwTgLj527yA,https://www.youtube.com/channel/UCjm4DS-sqs6xNwTgLj527yA,"magnetoalbums 1989-1993, pop/disco","Оливер Твист 1990; Авангард 1993",not_scanned
-10,B,MurZone,UCK9kZi19lt2v7ug4NjUia5Q,https://www.youtube.com/channel/UCK9kZi19lt2v7ug4NjUia5Q,"rare albums plus modern remasters","Нэсси - King Size 1991; Полли 1990",partially_scanned
-11,B,Danya Diskoteka,UCpKCCdYFfrYPk9WcNUnDOYg,https://www.youtube.com/channel/UCpKCCdYFfrYPk9WcNUnDOYg,"magnetoalbums 80s-90s, synth-pop/disco","Сон 1989; DANCE BOY 1993",partially_scanned
-12,C,Stepi1825,UCdjYBW4nBuMicftBIo0dJlA,https://www.youtube.com/channel/UCdjYBW4nBuMicftBIo0dJlA,"rare full albums, mixed relevance","Босфор - Ветерок 1989; Марина Хлебникова 1989",not_scanned
-13,C,Музыкальный музей Алексея Жукова,UCeC2X2plml8sgGVeKENshSA,https://www.youtube.com/channel/UCeC2X2plml8sgGVeKENshSA,"Omsk/rock archive, context","Штурм 1988; rock panorama",not_scanned
-14,C,Anon0122,UCPRMYCAMP1BqZlVKm2xR0ew,https://www.youtube.com/channel/UCPRMYCAMP1BqZlVKm2xR0ew,"unknown individual songs, lostwave","Александр Волощук 1992; unknown tracks",not_scanned
-15,C,Cadkof,UCxfPwX1Z6bI_zB2VBRh89BQ,https://www.youtube.com/channel/UCxfPwX1Z6bI_zB2VBRh89BQ,"Omsk TV - Нехорошо забытое старое","НЗС releases",not_scanned
-16,C,Студия Назад в прошлое,UCbyGK_MSq4xRjlvIeb5UeUA,https://www.youtube.com/channel/UCbyGK_MSq4xRjlvIeb5UeUA,"90s compilations and concerts","Назад в прошлое 26; Чёрный Ангел 1999",not_scanned
-17,C,digitcassettes,UCZKsiGbDqfb6R9x1guCdDLg,https://www.youtube.com/channel/UCZKsiGbDqfb6R9x1guCdDLg,"Ukrainian cassette digitizations","raw scan done earlier",partially_scanned
-18,D,Aleks-Audio,UCTSiyGy48mNpZntREm4KOWQ,https://www.youtube.com/channel/UCTSiyGy48mNpZntREm4KOWQ,"AI restorations; altered timbre","AI restorations of 1990-93 albums",avoid_for_voice
-19,D,Tenrain Records,UCFftWZRZnls3YdRLBWrVg3Q,https://www.youtube.com/channel/UCFftWZRZnls3YdRLBWrVg3Q,"modern noise/rock, wrong period","4 колокольни; Чёрный Лукич",avoid
-20,D,Nick Vovk 79,UCGL9q1UOZD4RxXcsFYBX4mQ,https://www.youtube.com/channel/UCGL9q1UOZD4RxXcsFYBX4mQ,"rock/foreign, low relevance","Черный Кофе; Scorpions",avoid
+﻿priority,tier,channel,channel_id,url,focus,examples,status
+1,A,Песни моей молодости,UCkTlQdsrVAuO-ZMlBwpjRwQ,https://www.youtube.com/channel/UCkTlQdsrVAuO-ZMlBwpjRwQ,"full magnetoalbums 1991-1994, female pop",Алина - Наташка 1994; Лена Гладышева - Ты гад 1991; Татьяна Маркова 1992,full_98_raw_35_uvr
+2,A,Стихия музыки,UCHS0SHRavRoVXNzAzdmuUbA,https://www.youtube.com/channel/UCHS0SHRavRoVXNzAzdmuUbA,"large 80s-90s archive, full albums, female groups",Бамбино 1990; Модель и Марина Цхай 1987; Чёрная кошка 1991,pilot_15_raw_8_uvr
+3,A,MUSIC ARCHIVE,UCzJHUsB9bkcaOmAgIRHN74Q,https://www.youtube.com/channel/UCzJHUsB9bkcaOmAgIRHN74Q,"short synth-pop tracks, female vocal",Душечка 1991; Radmila Mozhlaeva; Altai/Tatar pop,pilot_short_27
+4,A,Алексей Ищенко,UC8h5aTYaFb5zNnW2B9-8jSw,https://www.youtube.com/channel/UC8h5aTYaFb5zNnW2B9-8jSw,"short rare tracks 1989-1995, reel digitizations",Стеклянные крылья 1990; Горелова 1991; Шанс 1993,pilot_short_98
+5,B,ДОЛГовец,UCBWlrPY-wqoA9xAxzHRfB5A,https://www.youtube.com/channel/UCBWlrPY-wqoA9xAxzHRfB5A,"cassette and reel digitizations, mixed full albums",Евгений Гетманский 1992; Виктор Оншин 1992,not_scanned
+6,B,Audio БАГаж,UCBjeM6vpgB7IDR-WFN4lpoA,https://www.youtube.com/channel/UCBjeM6vpgB7IDR-WFN4lpoA,full obscure magnetoalbums,Удар (Брест) 1989; Телешанс 1994; Тутти 1990,not_scanned
+7,B,Профессор фон Кляйсер,UCVoyZ3xQgmk9SPzY4v0tZ2Q,https://www.youtube.com/channel/UCVoyZ3xQgmk9SPzY4v0tZ2Q,Soviet disco/pop album tracks,Таня Воробьева - После десяти 1989,not_scanned
+8,B,МагнитИздат,UCHkj78PTOXyIeGvQp1qzrsA,https://www.youtube.com/channel/UCHkj78PTOXyIeGvQp1qzrsA,"red disco, female synth-pop, full albums",Формула 1 1991; М. Кубарская 1991,partially_scanned
+9,B,Черный Ярл,UCjm4DS-sqs6xNwTgLj527yA,https://www.youtube.com/channel/UCjm4DS-sqs6xNwTgLj527yA,"magnetoalbums 1989-1993, pop/disco",Оливер Твист 1990; Авангард 1993,not_scanned
+10,B,MurZone,UCK9kZi19lt2v7ug4NjUia5Q,https://www.youtube.com/channel/UCK9kZi19lt2v7ug4NjUia5Q,rare albums plus modern remasters,Нэсси - King Size 1991; Полли 1990,partially_scanned
+11,B,Danya Diskoteka,UCpKCCdYFfrYPk9WcNUnDOYg,https://www.youtube.com/channel/UCpKCCdYFfrYPk9WcNUnDOYg,"magnetoalbums 80s-90s, synth-pop/disco",Сон 1989; DANCE BOY 1993,partially_scanned
+12,C,Stepi1825,UCdjYBW4nBuMicftBIo0dJlA,https://www.youtube.com/channel/UCdjYBW4nBuMicftBIo0dJlA,"rare full albums, mixed relevance",Босфор - Ветерок 1989; Марина Хлебникова 1989,not_scanned
+13,C,Музыкальный музей Алексея Жукова,UCeC2X2plml8sgGVeKENshSA,https://www.youtube.com/channel/UCeC2X2plml8sgGVeKENshSA,"Omsk/rock archive, context",Штурм 1988; rock panorama,not_scanned
+14,C,Anon0122,UCPRMYCAMP1BqZlVKm2xR0ew,https://www.youtube.com/channel/UCPRMYCAMP1BqZlVKm2xR0ew,"unknown individual songs, lostwave",Александр Волощук 1992; unknown tracks,not_scanned
+15,C,Cadkof,UCxfPwX1Z6bI_zB2VBRh89BQ,https://www.youtube.com/channel/UCxfPwX1Z6bI_zB2VBRh89BQ,Omsk TV - Нехорошо забытое старое,НЗС releases,not_scanned
+16,C,Студия Назад в прошлое,UCbyGK_MSq4xRjlvIeb5UeUA,https://www.youtube.com/channel/UCbyGK_MSq4xRjlvIeb5UeUA,90s compilations and concerts,Назад в прошлое 26; Чёрный Ангел 1999,not_scanned
+17,C,digitcassettes,UCZKsiGbDqfb6R9x1guCdDLg,https://www.youtube.com/channel/UCZKsiGbDqfb6R9x1guCdDLg,Ukrainian cassette digitizations,raw scan done earlier,partially_scanned
+18,D,Aleks-Audio,UCTSiyGy48mNpZntREm4KOWQ,https://www.youtube.com/channel/UCTSiyGy48mNpZntREm4KOWQ,AI restorations; altered timbre,AI restorations of 1990-93 albums,avoid_for_voice
+19,D,Tenrain Records,UCFftWZRZnls3YdRLBWrVg3Q,https://www.youtube.com/channel/UCFftWZRZnls3YdRLBWrVg3Q,"modern noise/rock, wrong period",4 колокольни; Чёрный Лукич,avoid
+20,D,Nick Vovk 79,UCGL9q1UOZD4RxXcsFYBX4mQ,https://www.youtube.com/channel/UCGL9q1UOZD4RxXcsFYBX4mQ,"rock/foreign, low relevance",Черный Кофе; Scorpions,avoid
